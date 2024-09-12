@@ -1,14 +1,13 @@
-.africa{
-    color: blue;
-}
-.fourLegs {
-    color: red;
+.africa {
+  color: blue;
 }
 
 .harryPotter {
-    color: gold;
+  color: gold;
 }
 
-.likesToQuack .fight1Or100 {
-    color: red;
+.likesToQuack {
+  color: red;
 }
+
+#rhino;
