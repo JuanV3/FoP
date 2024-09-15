@@ -1,0 +1,23 @@
+
+
+div-1:active {
+  background-color: blue; 
+  height: 50px;
+  width: 50px;
+}
+div-2:active {
+  background-color: green;
+}
+div-3:active {
+  background-color: red;
+}
+div-4:active {
+  background-color: yellow;
+}
+div-5:active {
+  background-color: orange;
+}
+div-4:active {
+  background-color: white;
+}
+
